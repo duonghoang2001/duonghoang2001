@@ -1,5 +1,5 @@
 - Hi, I am Duong Hoang @duonghoang2001
-- I am interested in Algorithm and Data Structure Designing
+- I am interested in Algorithm Design, Machine Learning, and still exploring more fields
 - I am currently pursuing Bachelor of Science in Computer Science with a Mathematics minor
 - I am actively looking for an employment opportunity as a Software Engineer 
 - I am a Vietnamese studying abroad in the United States 
